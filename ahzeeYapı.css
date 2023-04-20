@@ -63,7 +63,7 @@ img {
 .navbar a {
     color: #fff;
     padding: 1rem 2rem;
-    margin: 0 .5px;
+    margin: 0 .7px;
 }
 
 .navbar ul {
@@ -77,7 +77,7 @@ img {
 .navbar .brand {
     width: 200px;
     height: 50px;
-    background-color: black;
+    
 
 }
 .navbar h1 {
@@ -231,7 +231,7 @@ img {
 
 @media (max-width:768px){
     html {
-        font-size: 8px  ;
+        font-size: 8px;
     }
 
     .navbar {
@@ -242,9 +242,11 @@ img {
     }
 
     .navbar a {
-        padding: 3px;
-        font-size: 12.9px;
+        padding: 13px;
+        font-size: 12.2px;
     }
+
+
 
     .flex-items {
         flex-direction: column;
@@ -297,4 +299,3 @@ img {
         padding-left: 3rem;
     }
 }
-
